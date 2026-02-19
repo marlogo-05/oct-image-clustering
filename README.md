@@ -73,5 +73,4 @@ Este proyecto aplica técnicas de clustering no supervisado sobre imágenes de c
 
 ## Autor
 
-Marco López
 Proyecto realizado como parte de la asignatura APAU - UPM
